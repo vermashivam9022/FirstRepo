@@ -95,7 +95,7 @@ command:  git branch
  command: git branch -m <old-branch-name> <new-branch-name>
  eg.
  If the current branch is master and you want to rename it to main:
- git branch -m main
+ git branch -M main
  
   git checkout BranchName        // to move to another nranch
  
